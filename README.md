@@ -15,4 +15,6 @@ La práctica ha sido realizada individualmente por **Constancia Castillo Ibáñe
 
 * **practica1-ccastilloi.py**: Fichero con el código python que hace web scraping
 
+* **PEC2-ccastilloi.ipynb**: Fichero con el código python en formato notebook 
+
 * **temperaturas_poblaciones_hoy_y_manana.csv**: Fichero con el resultado del web scraping
