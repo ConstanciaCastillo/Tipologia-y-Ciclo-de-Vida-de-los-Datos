@@ -1,0 +1,201 @@
+PROVINCIA;POBLACION;TEMP_MAXIMA_HOY;TEMP_MINIMA_HOY;TEMP_MAXIMA_MANANA;TEMP_MINIMA_MANANA
+A Coruña;A Coruña;16;8;17;5
+A Coruña;Santiago de Compostela;16;4;18;2
+Alacant/Alicante;Alicante/Alacant;20;10;20;10
+Alacant/Alicante;Orihuela;23;9;24;9
+Alacant/Alicante;Dénia;20;10;19;10
+Alacant/Alicante;Elche/Elx;21;10;22;10
+Alacant/Alicante;Alcoy/Alcoi;17;5;18;5
+Albacete;Almansa;17;2;19;2
+Albacete;Albacete;17;3;18;1
+Albacete;Hellín;18;5;20;6
+Albacete;Villarrobledo;17;2;18;1
+Almería;Almería;22;12;22;12
+Almería;Huércal-Overa;22;11;23;10
+Araba/Álava;Vitoria-Gasteiz;12;5;14;1
+Araba/Álava;Laguardia;12;6;15;2
+Araba/Álava;Laudio/Llodio;15;8;16;4
+Asturias;Cangas del Narcea;13;2;18;1
+Asturias;Avilés;15;7;16;6
+Asturias;Llanes;14;9;16;9
+Asturias;Navia;15;9;16;6
+Asturias;Oviedo;13;5;16;6
+Asturias;Langreo;13;5;17;5
+Asturias;Gijón;15;8;17;8
+Ávila;Arenas de San Pedro;17;3;19;3
+Ávila;Arévalo;14;-1;15;-1
+Ávila;Ávila;13;1;13;1
+Badajoz;Badajoz;21;4;23;5
+Badajoz;Zafra;19;3;21;6
+Badajoz;Llerena;17;5;19;5
+Badajoz;Mérida;21;4;23;4
+Barcelona;Vic;18;2;19;3
+Barcelona;Mataró;20;8;18;10
+Barcelona;Igualada;19;4;20;5
+Barcelona;Vilanova i la Geltrú;21;9;19;10
+Barcelona;Manresa;19;4;20;5
+Barcelona;Sabadell;21;6;19;7
+Barcelona;Barcelona;19;9;17;11
+Bizkaia;Bilbao;15;9;17;4
+Bizkaia;Durango;14;8;17;3
+Bizkaia;Balmaseda;15;8;16;3
+Burgos;Aranda de Duero;13;-1;15;0
+Burgos;Miranda de Ebro;14;4;16;1
+Burgos;Burgos;11;2;15;1
+Cáceres;Cáceres;20;5;20;5
+Cáceres;Navalmoral de la Mata;18;4;21;5
+Cáceres;Plasencia;21;6;21;6
+Cáceres;Trujillo;17;4;19;4
+Cádiz;Algeciras;18;13;19;14
+Cádiz;Cádiz;18;13;19;13
+Cádiz;Jerez de la Frontera;22;6;25;6
+Cantabria;Cabezón de la Sal;13;8;16;7
+Cantabria;San Vicente de la Barquera;13;9;14;8
+Cantabria;Santander;14;11;16;8
+Cantabria;Castro-Urdiales;13;8;14;8
+Cantabria;Potes;15;1;19;4
+Cantabria;Reinosa;9;-2;14;1
+Cantabria;Torrelavega;14;11;17;6
+Castelló/Castellón;Vall d'Uixó. la;20;10;19;9
+Castelló/Castellón;Vinaròs;21;11;20;10
+Castelló/Castellón;Castellón de la Plana/Castelló de la Plana;20;10;20;9
+Castelló/Castellón;Morella;12;2;15;3
+Ceuta;Ceuta;18;13;20;14
+Ciudad Real;Puertollano;17;3;18;4
+Ciudad Real;Ciudad Real;18;3;20;3
+Ciudad Real;Valdepeñas;17;2;17;3
+Ciudad Real;Tomelloso;16;2;17;4
+Córdoba;Pozoblanco;17;4;18;4
+Córdoba;Priego de Córdoba;18;5;19;6
+Córdoba;Lucena;18;6;19;6
+Córdoba;Córdoba;21;5;23;4
+Cuenca;Huete;15;1;16;2
+Cuenca;Cuenca;14;1;15;1
+Cuenca;Tarancón;16;2;17;2
+Cuenca;Quintanar del Rey;17;1;18;2
+Gipuzkoa;Donostia/San Sebastián;14;9;15;6
+Gipuzkoa;Eibar;13;8;15;3
+Girona;Ripoll;16;1;18;1
+Girona;Olot;19;2;20;3
+Girona;Blanes;19;9;19;11
+Girona;Figueres;20;10;21;9
+Girona;Girona;21;4;22;7
+Granada;Baza;17;5;18;2
+Granada;Loja;19;8;20;9
+Granada;Motril;20;13;21;14
+Granada;Granada;20;6;21;5
+Guadalajara;Guadalajara;15;1;18;3
+Guadalajara;Molina de Aragón;12;-1;14;-2
+Guadalajara;Sigüenza;12;0;16;-2
+Huelva;Almonte;21;7;25;7
+Huelva;Isla Cristina;20;8;21;9
+Huelva;Valverde del Camino;20;7;23;8
+Huelva;Huelva;22;9;21;9
+Huesca;Jaca;14;3;16;1
+Huesca;Sariñena;20;6;22;6
+Huesca;Huesca;18;5;20;4
+Huesca;Fraga;22;7;22;7
+Huesca;Benasque;11;-2;12;-2
+Illes Balears (Ibiza-Formentera);Eivissa;19;8;19;10
+Illes Balears (Mallorca);Palma de Mallorca;19;8;19;8
+Illes Balears (Mallorca);Felanitx/Portocolom;19;10;19;11
+Illes Balears (Mallorca);Escorca/Lluc;15;5;15;4
+Illes Balears (Mallorca);Pobla. Sa;19;9;19;8
+Illes Balears (Menorca);Maó;18;11;17;12
+Illes Balears (Menorca);Ciutadella de Menorca;18;13;17;13
+Jaén;Andújar;20;3;22;5
+Jaén;Cazorla;15;6;16;7
+Jaén;Linares;16;4;18;6
+Jaén;Alcalá la Real;15;6;16;6
+Jaén;Jaén;17;6;18;8
+La Rioja;Haro;12;5;15;3
+La Rioja;Calahorra;15;8;18;6
+La Rioja;Logroño;14;7;17;3
+Las Palmas (Fuerteventura);Puerto del Rosario;23;16;23;16
+Las Palmas (Gran Canaria);Palmas de Gran Canaria. Las;22;17;22;17
+Las Palmas (Lanzarote);Arrecife;22;15;22;16
+León;Ponferrada;15;1;18;2
+León;Astorga;15;-1;19;-1
+León;León;14;2;17;1
+León;Villablino;10;-2;16;-5
+Lleida;Balaguer;21;3;22;4
+Lleida;Tàrrega;18;3;19;4
+Lleida;La Seu d'Urgell;15;4;18;2
+Lleida;Vielha e Mijaran;9;2;12;0
+Lleida;Lleida;22;5;22;6
+Lugo;Viveiro;16;7;18;7
+Lugo;Lugo;14;6;16;1
+Lugo;Monforte de Lemos;18;1;20;0
+Madrid;Madrid;16;3;19;4
+Madrid;Alcalá de Henares;17;2;19;3
+Madrid;Getafe;16;2;19;4
+Madrid;Collado Villalba;13;1;16;2
+Madrid;Navalcarnero;16;2;18;3
+Madrid;Aranjuez;17;1;19;1
+Málaga;Málaga;22;13;25;12
+Málaga;Marbella;22;12;22;13
+Málaga;Vélez-Málaga;24;13;23;13
+Málaga;Ronda;18;7;20;9
+Málaga;Antequera;18;6;21;7
+Melilla;Melilla;19;15;20;13
+Murcia;Cartagena;20;14;22;14
+Murcia;Caravaca de la Cruz;19;4;20;3
+Murcia;Lorca;21;10;22;10
+Murcia;Yecla;18;6;18;6
+Murcia;Murcia;24;10;25;10
+Navarra;Estella-Lizarra;13;6;15;3
+Navarra;Pamplona/Iruña;13;6;15;2
+Navarra;Roncal/Erronkari;12;2;14;3
+Navarra;Tudela;15;7;18;7
+Ourense;Verín;20;3;20;1
+Ourense;Ourense;19;4;21;2
+Palencia;Guardo;10;-1;14;-1
+Palencia;Aguilar de Campoo;11;-2;14;0
+Palencia;Palencia;13;-1;16;1
+Pontevedra;Pontevedra;20;6;20;5
+Pontevedra;Vigo;19;7;19;5
+Salamanca;Béjar;14;1;15;2
+Salamanca;Ciudad Rodrigo;17;2;19;2
+Salamanca;Salamanca;16;1;17;1
+Santa Cruz de Tenerife (El Hierro);Valverde;17;11;17;11
+Santa Cruz de Tenerife (La Gomera);San Sebastián de la Gomera;22;17;22;17
+Santa Cruz de Tenerife (La Palma);Santa Cruz de la Palma;22;15;22;16
+Santa Cruz de Tenerife (Tenerife);Santa Cruz de Tenerife;23;17;23;17
+Segovia;Riaza;9;-2;13;-1
+Segovia;Cuéllar;13;-2;15;-2
+Segovia;Segovia;11;1;14;1
+Sevilla;Lebrija;22;7;24;8
+Sevilla;Écija;20;6;20;6
+Sevilla;Morón de la Frontera;22;5;23;6
+Sevilla;Sevilla;22;7;23;7
+Soria;Burgo de Osma-Ciudad de Osma;11;-1;16;-1
+Soria;Soria;11;2;14;1
+Soria;Almazán;12;-2;15;-1
+Tarragona;Vendrell. El;22;9;20;9
+Tarragona;Gandesa;19;6;19;6
+Tarragona;Tortosa;24;10;24;10
+Tarragona;Tarragona;23;9;22;10
+Tarragona;Reus;23;7;23;7
+Teruel;Montalbán;12;2;14;2
+Teruel;Calamocha;12;2;15;2
+Teruel;Alcañiz;16;5;18;5
+Teruel;Teruel;14;2;16;2
+Toledo;Illescas;17;2;20;3
+Toledo;Toledo;18;3;20;4
+Toledo;Ocaña;15;1;17;1
+Toledo;Talavera de la Reina;19;3;21;2
+Toledo;Quintanar de la Orden;16;2;18;2
+València/Valencia;Requena;18;4;19;4
+València/Valencia;Ontinyent;20;5;20;5
+València/Valencia;Gandia;20;9;19;10
+València/Valencia;València;22;10;20;9
+Valladolid;Valladolid;14;2;15;2
+Valladolid;Peñafiel;13;-1;15;0
+Valladolid;Medina del Campo;15;1;16;0
+Zamora;Toro;16;-1;16;1
+Zamora;Zamora;17;2;18;1
+Zamora;Benavente;15;0;17;0
+Zaragoza;Zaragoza;17;7;20;7
+Zaragoza;Ejea de los Caballeros;15;5;19;5
+Zaragoza;Calatayud;15;3;17;2
+Zaragoza;Daroca;13;1;16;2
